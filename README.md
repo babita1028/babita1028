@@ -35,8 +35,3 @@ A Django-based e-commerce platform focused on buying and selling chocolates, wit
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
 
----
-
-This README is structured to provide a quick but comprehensive overview of who you are, what you do, and the projects you're most proud of. It encourages visitors to explore your projects and connect with you on LinkedIn or via email.
-
-You can customize the links and content as needed before adding this to your GitHub profile.
