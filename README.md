@@ -1,37 +1,43 @@
-# 👋 Hi, I'm Babita
+<h1 align="center">Hi 👋, I'm Babita</h1>
+<h3 align="center">A passionate Software Developer from IIT Guwahati, India (BTech in Chemical Engineering)</h3>
 
-Welcome to my GitHub profile! I'm a final year B.Tech student at IIT Guwahati, specializing in **Software Development** and **Full Stack Development**. I have a strong foundation in **Data Structures & Algorithms (DSA)** using C++ and Python, as well as hands-on experience with **SQL**, **MATLAB simulations**, and **Dymola**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babita1028&label=Profile%20views&color=0e75b6&style=flat" alt="babita1028" /> </p>
 
-## 🔧 Skills
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babita1028" alt="babita1028" /></a> </p>
 
-- **Programming Languages**: C++, Python, Dart
-- **Full Stack Development**: React, Node.js, Django, Flutter
-- **Databases**: MySQL, MongoDB
-- **Tools & Frameworks**: MATLAB, Dymola, Firebase, Unity
-- **Others**: Git, RESTful APIs, Postman
+- 🔭 I’m currently working on **Full Stack Development**
 
-## 💻 Projects
+- 🌱 I’m learning **Data Analytics and Cloud Computing**
 
-### 1. [Job-Portal_App](https://github.com/babita1028/Job-Portal_App)
-A tailored job portal app for students, where recruiters can post jobs and students can apply. Built with **Flutter** and **Firebase**.
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-### 2. [Chat-App](https://github.com/babita1028/Chat-App)
-An automated chatbot app generating smart replies using Flutter and integrated API for intelligent responses.
+- 💬 Ask me about **Python, C++, DSA, MERN Stack, and Data Analysis**
 
-### 3. [Sudoku Solver](https://github.com/babita1028/Sudoku-Solver)
-A Python-based Sudoku solver using backtracking algorithms. Provides step-by-step solutions and visualizations.
+- 📫 How to reach me **babitarulaniyan@gmail.com**
 
-### 4. [Pong-Game-With-Hand-Gesture-Control](https://github.com/babita1028/Pong-Game-With-Hand-Gesture-Control)
-A Pong game controlled by hand gestures using a webcam. Built with Python and OpenCV.
+- ⚡ Fun fact **I love problem-solving and building innovative solutions!**
 
-### 5. [E-Commerce Website](https://github.com/babita1028/E-Commerce-Website)
-A Django-based e-commerce platform focused on buying and selling chocolates, with features for both buyers and suppliers to manage orders and inventory.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/babita-rulaniyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="babita-rulaniyan" height="30" width="40" /></a>
+<a href="https://github.com/babita1028" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="babita1028" height="30" width="40" /></a>
+</p>
 
-## 📫 Let's Connect
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+</p>
 
-- **LinkedIn**: [Babita Rulaniyan](https://www.linkedin.com/in/babita-rulaniyan/)
-- **GitHub**: [babita1028](https://github.com/babita1028)
-- **Email**: [babita.cl21@iitg.ac.in](mailto:babita.cl21@iitg.ac.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babita1028&show_icons=true&locale=en&layout=compact" alt="babita1028" /></p>
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babita1028&show_icons=true&locale=en" alt="babita1028" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babita1028&" alt="babita1028" /></p>
